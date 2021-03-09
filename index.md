@@ -1,9 +1,9 @@
-# Test webpage
+# {{ site.title }}
 
 Starting to create a webpage
 
 ## Description
-Learning to make a Github pages webpage
+{{ site.description }}
 
 ## About Page
 [The about page is here](about.md)
