@@ -17,5 +17,16 @@ are caused by two trailing spaces at the end of a line.
 - Data Carpentry
 - Library Carpentry
 
+## Second Level Heading 
+[TexGen webpage](http://texgen.sourceforge.net)
+
+Some ~~Strikethrough~~ text
+
+### Third Level Heading
+1. Number 1
+2. Number 2
+3. Number 3
+
+![Image](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png)
 
 
