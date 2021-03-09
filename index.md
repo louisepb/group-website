@@ -1,3 +1,8 @@
+---
+lesson-example: "https://carpentries.github.io/lesson-example/"
+---
+
+
 # {{ site.title }}
 
 Starting to create a webpage
@@ -10,3 +15,4 @@ Starting to create a webpage
 
 [Predefined config variables](https://jekyllrb.com/docs/variables#site-variables)
  
+See some [examples of our work]({{ page.lesson-example }})
