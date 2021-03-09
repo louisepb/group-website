@@ -7,3 +7,6 @@ Starting to create a webpage
 
 ## About Page
 [The about page is here](about.md)
+
+[Predefined config variables] (https://jekyllrb.com/docs/variables#site-variables)
+ 
