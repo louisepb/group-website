@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# About page
 
 ## Project
 {{ site.description }}
