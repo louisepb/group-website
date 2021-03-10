@@ -21,3 +21,5 @@ Starting to create a webpage
 See some [examples of our work]({{ page.lesson-example }})
 
 {% include contact.md %}
+
+{% include mistake.md %}
