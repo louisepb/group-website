@@ -2,7 +2,7 @@
 lesson-example: "https://carpentries.github.io/lesson-example/"
 ---
 
-[![Group Website Banner](./image/site_banner.png)](https://louisepb.github.io/group-website/)
+{% include banner.md %}
 
 [Liink back to index page]()
 
