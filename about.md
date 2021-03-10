@@ -2,7 +2,6 @@
 layout: default
 ---
 
-## Project
 {{ site.description }}
 
 Creating a second page to the website
