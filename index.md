@@ -1,6 +1,5 @@
 ---
 lesson-example: "https://carpentries.github.io/lesson-example/"
-layout: default
 ---
 
 Starting to create a webpage
