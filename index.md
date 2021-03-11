@@ -20,5 +20,5 @@ See some [examples of our work]({{ page.lesson-example }})
 
 ## Blog Posts
 {% for posts in site.posts %}
-- {{ posts.date | date_to_string }}: {{ posts.title }} by {{ posts.author }} 
+- {{ posts.date | date_to_string }}: [{{ posts.title }}]({{ posts.url }}) by {{ posts.author }} 
 {% endfor %}
